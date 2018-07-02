@@ -1,0 +1,6 @@
+arrow==0.8.0
+numpy==1.10.4
+scipy==0.14.0
+pandas
+Py4J
+matplotlib
